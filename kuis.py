@@ -1,1 +1,2 @@
-﻿def buat_soal(): return 'soal bentrok langsung dari branch develop'
+﻿def buat_soal():
+    return 'soal gabungan kuis interaktif'
