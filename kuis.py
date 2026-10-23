@@ -1,3 +1,1 @@
-﻿def buat_soal(): pass
-def hitung_skor(): return 100
-# Catatan revisi
+﻿def buat_soal(): return 'soal bentrok langsung dari branch develop'
